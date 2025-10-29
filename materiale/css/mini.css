@@ -1,0 +1,19 @@
+#coppe, #capitanim{
+    display: none;
+}
+
+header h1 {
+    line-height: 1.0em;
+    font-size: 4em;
+}
+
+#menu {
+    float: none;
+    width: 90%;
+    padding-top: 0.5em;
+}
+
+main{
+    margin: 0;
+    border-top: solid 1px black;
+}
